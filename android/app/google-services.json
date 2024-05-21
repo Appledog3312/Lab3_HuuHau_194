@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96532038554",
+    "project_id": "fir-authlogin-d8dc8",
+    "storage_bucket": "fir-authlogin-d8dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96532038554:android:8f7a2c46f82cc96d4b3023",
+        "android_client_info": {
+          "package_name": "com.th3_huuhau_194"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGXcedLPE4WXweSXDUHmYwp3LwvnvGMBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
